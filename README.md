@@ -40,9 +40,17 @@ pip install pandas matplotlib
 
 How to Run
 
-Run the main Python file:
+1. Download or clone this repository.
+2. Open "galaxy.ipynb" using Jupyter Notebook or JupyterLab.
+3. Run the notebook cells in order.
 
-python main.py
+Requirements
+
+Install the required libraries:
+
+pip install pandas matplotlib
+
+SQLite is included with Python, so no separate installation is usually required.
 
 Follow the menu instructions to select an operation.
 
